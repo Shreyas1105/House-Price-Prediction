@@ -98,6 +98,13 @@ npm run dev
 Frontend runs at:
 http://localhost:3000
 
+### NOTE:
+Before running the project 
+1. Create a directory named data in the public directory
+2. Install the Housing.csv file
+3. Download the Housing.csv using the following link - https://www.kaggle.com/datasets/yasserh/housing-prices-dataset
+4. Rename the csv file house_prices.csv and then move it to the data folder
+
 📖 How to Use
 Open the frontend in browser
 Enter property details:
