@@ -19,7 +19,7 @@ The system is designed to showcase end-to-end ML workflow, including data handli
 
 ---
 
-## 🛠️ Tech Stack / Tools Used
+### 🛠️ Tech Stack / Tools Used
 
 ### 💻 Frontend
 - Next.js
